@@ -1,0 +1,14 @@
+D:\oop2\Project\Mortgage Calculator\bin\Debug\net8.0\Mortgage Calculator.exe
+D:\oop2\Project\Mortgage Calculator\bin\Debug\net8.0\Mortgage Calculator.deps.json
+D:\oop2\Project\Mortgage Calculator\bin\Debug\net8.0\Mortgage Calculator.runtimeconfig.json
+D:\oop2\Project\Mortgage Calculator\bin\Debug\net8.0\Mortgage Calculator.dll
+D:\oop2\Project\Mortgage Calculator\bin\Debug\net8.0\Mortgage Calculator.pdb
+D:\oop2\Project\Mortgage Calculator\obj\Debug\net8.0\Mortgage Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop2\Project\Mortgage Calculator\obj\Debug\net8.0\Mortgage Calculator.AssemblyInfoInputs.cache
+D:\oop2\Project\Mortgage Calculator\obj\Debug\net8.0\Mortgage Calculator.AssemblyInfo.cs
+D:\oop2\Project\Mortgage Calculator\obj\Debug\net8.0\Mortgage Calculator.csproj.CoreCompileInputs.cache
+D:\oop2\Project\Mortgage Calculator\obj\Debug\net8.0\Mortgage Calculator.dll
+D:\oop2\Project\Mortgage Calculator\obj\Debug\net8.0\refint\Mortgage Calculator.dll
+D:\oop2\Project\Mortgage Calculator\obj\Debug\net8.0\Mortgage Calculator.pdb
+D:\oop2\Project\Mortgage Calculator\obj\Debug\net8.0\Mortgage Calculator.genruntimeconfig.cache
+D:\oop2\Project\Mortgage Calculator\obj\Debug\net8.0\ref\Mortgage Calculator.dll
