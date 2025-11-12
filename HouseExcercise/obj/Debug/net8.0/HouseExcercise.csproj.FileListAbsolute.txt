@@ -1,0 +1,14 @@
+D:\oop2\Lab\HouseExcercise\bin\Debug\net8.0\HouseExcercise.exe
+D:\oop2\Lab\HouseExcercise\bin\Debug\net8.0\HouseExcercise.deps.json
+D:\oop2\Lab\HouseExcercise\bin\Debug\net8.0\HouseExcercise.runtimeconfig.json
+D:\oop2\Lab\HouseExcercise\bin\Debug\net8.0\HouseExcercise.dll
+D:\oop2\Lab\HouseExcercise\bin\Debug\net8.0\HouseExcercise.pdb
+D:\oop2\Lab\HouseExcercise\obj\Debug\net8.0\HouseExcercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop2\Lab\HouseExcercise\obj\Debug\net8.0\HouseExcercise.AssemblyInfoInputs.cache
+D:\oop2\Lab\HouseExcercise\obj\Debug\net8.0\HouseExcercise.AssemblyInfo.cs
+D:\oop2\Lab\HouseExcercise\obj\Debug\net8.0\HouseExcercise.csproj.CoreCompileInputs.cache
+D:\oop2\Lab\HouseExcercise\obj\Debug\net8.0\HouseExcercise.dll
+D:\oop2\Lab\HouseExcercise\obj\Debug\net8.0\refint\HouseExcercise.dll
+D:\oop2\Lab\HouseExcercise\obj\Debug\net8.0\HouseExcercise.pdb
+D:\oop2\Lab\HouseExcercise\obj\Debug\net8.0\HouseExcercise.genruntimeconfig.cache
+D:\oop2\Lab\HouseExcercise\obj\Debug\net8.0\ref\HouseExcercise.dll
