@@ -1,0 +1,14 @@
+D:\oop2\Lab\Student Record\bin\Debug\net8.0\Student Record.exe
+D:\oop2\Lab\Student Record\bin\Debug\net8.0\Student Record.deps.json
+D:\oop2\Lab\Student Record\bin\Debug\net8.0\Student Record.runtimeconfig.json
+D:\oop2\Lab\Student Record\bin\Debug\net8.0\Student Record.dll
+D:\oop2\Lab\Student Record\bin\Debug\net8.0\Student Record.pdb
+D:\oop2\Lab\Student Record\obj\Debug\net8.0\Student Record.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop2\Lab\Student Record\obj\Debug\net8.0\Student Record.AssemblyInfoInputs.cache
+D:\oop2\Lab\Student Record\obj\Debug\net8.0\Student Record.AssemblyInfo.cs
+D:\oop2\Lab\Student Record\obj\Debug\net8.0\Student Record.csproj.CoreCompileInputs.cache
+D:\oop2\Lab\Student Record\obj\Debug\net8.0\Student Record.dll
+D:\oop2\Lab\Student Record\obj\Debug\net8.0\refint\Student Record.dll
+D:\oop2\Lab\Student Record\obj\Debug\net8.0\Student Record.pdb
+D:\oop2\Lab\Student Record\obj\Debug\net8.0\Student Record.genruntimeconfig.cache
+D:\oop2\Lab\Student Record\obj\Debug\net8.0\ref\Student Record.dll
